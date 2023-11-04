@@ -9,7 +9,7 @@ Switched to a new branch 'Master'
 git commit -am "Message Name"
 
 git log --graph --pretty --decorate --name-only 
-
+git log --graph --pretty --decorate --name-only
 
 # Merging - Fast foward(WHen the main branch has no coommits) and No Fast Foward(Commin case where the main branch will always have a commit)
 git checkout master 
